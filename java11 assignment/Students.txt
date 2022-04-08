@@ -1,0 +1,18 @@
+do
+{
+ Select your option (1: Insert New Price, 2: View Purchase Total, 3: Exit
+ ->
+ if(1)
+ c->100
+ total-total+c
+ list.add((100)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ do ypu want to add more prices?
+ s->
+ }while(s.comp(yes)==0)
